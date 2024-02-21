@@ -2,7 +2,7 @@
     <div class="container">
 
       <a class="navbar-brand" href="/">
-        <img src="img/kamun.png" width="30 " alt="...">
+        <img src="/img/kamun.png" width="30 " alt="...">
         SMKN 1 KADIPATEN
       </a>
     </div>
